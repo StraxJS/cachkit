@@ -11,7 +11,7 @@
 
 Simple, fast, and powerful caching for Node.js. No config. Just works.
 
-> ⭐ If you find Cachkit valuable, please drop a star on [GitHub](https://github.com/Corex24/cachkit)! It helps others discover the project.
+> ⭐ If you find Cachkit valuable, please drop a star on [GitHub](https://github.com/StraxJS/cachkit)! It helps others discover the project.
 
 ## Installation
 
