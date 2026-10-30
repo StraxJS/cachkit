@@ -34,9 +34,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Corex24/cachkit.git"
+    "url": "https://github.com/StraxJS/cachkit"
   },
-  "homepage": "https://github.com/Corex24/cachkit#readme",
+  "homepage": "https://github.com/StraxJS/cachkit#readme",
   "exports": {
     ".": {
       "import": "./lib/index.js",
